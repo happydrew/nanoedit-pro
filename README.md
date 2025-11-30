@@ -4,7 +4,7 @@ Transform your creative vision into stunning 4K images with the world's most adv
 
 🌐 **Website**: [https://nanoedit.art](https://nanoedit.art)
 
-![NanoEdit Preview](preview.png)
+![NanoEdit Preview](https://nanoedit.art/screenshort.png)
 
 ## 🌟 Overview
 
